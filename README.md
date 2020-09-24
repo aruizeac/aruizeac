@@ -25,8 +25,8 @@ Actively working on [**The Alexandria Foundation**](https://github.com/alexandri
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="rails" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-plain.svg" alt="android" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> 
   <img src="https://www.iconfinder.com/data/icons/amazon-aws-stencils/100/Database_copy_DynamoDB-512.png" alt="dynamodb" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/640px-Cassandra_logo.svg.png" alt="cassandra" width="50" height="40"/> 
   <img src="https://elephy.tech/assets/images/services-ico/kafka.svg" alt="kafka" width="40" height="40"/> 
   <img src="https://www.iconfinder.com/data/icons/amazon-aws-stencils/100/App_Services_copy_Amazon_SNS-512.png" alt="sns" width="40" height="40"/> 
