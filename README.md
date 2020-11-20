@@ -5,7 +5,7 @@
 <h1 align="center">
   A. Ruiz
   <br>
-  <i>Systems Architect</i>
+  <i>Software Architect</i>
 </h1>
 
 I am a _[@golang](https://github.com/golang) **evangelist**_ and **_systems architect_** specialized in _distributed and high-scalable reactive ecosystems_ 
