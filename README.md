@@ -8,7 +8,7 @@
   <i>Software Architect</i>
 </h1>
 
-A. Ruiz is a _[@golang](https://github.com/golang) **evangelist**_ and **_software architect_** specialized in _distributed and high-scalable reactive ecosystems_ 
+A. Ruiz is a _[@golang](https://github.com/golang) **evangelist**_ and **_software engineer** specialized in _distributed and high-scalable reactive ecosystems_ 
 using IaaS such as _Amazon Web Services_.
 
 Actively working on  [**Wizeline**](https://github.com/wizeline), [**Cinephilia**](https://github.com/maestre3d/cinephilia), [**The Alexandria Foundation**](https://github.com/alexandria-oss) and [**Neutrino Corporation**](https://github.com/neutrinocorp) _(last 3 are personal projects)_.
