@@ -5,7 +5,7 @@
 <h1 align="center">
   A. Ruiz
   <br>
-  <i>Software Architect</i>
+  <i>Software Engineer</i>
 </h1>
 
 A. Ruiz is a _[@golang](https://github.com/golang) **evangelist**_ and **_software engineer_** specialized in _distributed and high-scalable reactive ecosystems_ 
