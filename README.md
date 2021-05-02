@@ -10,7 +10,7 @@
 
 A. Ruiz is a **_software engineer_** focused on building cloud-native distributed systems using programming languages such as Javascript and Go. 
 
-Actively working on  [**Wizeline**](https://github.com/wizeline), [**Cinephilia**](https://github.com/maestre3d/cinephilia), [**The Alexandria Foundation**](https://github.com/alexandria-oss) and [**Neutrino Corporation**](https://github.com/neutrinocorp) _(last 3 are personal projects)_.
+Actively working on  [**Wizeline**](https://github.com/wizeline) and [**Neutrino Corporation**](https://github.com/neutrinocorp).
 
 <h2 align="center">Technology Stack</h2>
 <p align="center">
