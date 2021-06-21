@@ -8,7 +8,7 @@
   <i>Software Engineer</i>
 </h1>
 
-A. Ruiz is a **_software engineer_** building cloud-native distributed systems using programming languages such as Go, Javascript, Java, C# and Rust. 
+A. Ruiz is a **_software engineer_** building cloud-native distributed systems using programming languages such as Go, Javascript and C#. 
 
 Actively working on  [**Wizeline**](https://github.com/wizeline) and [**Neutrino Corporation**](https://github.com/neutrinocorp).
 
