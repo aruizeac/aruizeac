@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://twitter.com/aruizea" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="@aruizea" height="30" width="30"></a>
-  <a href="https://linkedin.com/in/aruizmx" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="aruizmx" height="30" width="30"></a>
+  <a href="https://www.linkedin.com/in/aruizmx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="aruizmx" height="30" width="30"></a>
 </p>
 <h1 align="center">
   A. Ruiz
