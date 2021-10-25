@@ -3,17 +3,18 @@
 This is the `A. Ruiz` _(aka. maestre3d)_ full **technology stack** _ordered by skill level_ on each _topic_.
 
 - [In-Depth A. Ruiz's Technology Stack](#in-depth-a-ruizs-technology-stack)
-  - [Programming Language(s)](#programming-languages)
-  - [Front End Framework(s) & Library(es)](#front-end-frameworks--libraryes)
-  - [Database(s)](#databases)
+  - [Programming Language](#programming-language)
+  - [Front End Framework & Library(](#front-end-framework--library)
+  - [Database](#database)
+  - [Static Storage](#static-storage)
   - [Streams](#streams)
   - [Data Processing](#data-processing)
   - [Cloud Computing](#cloud-computing)
   - [Site-Reliability Engineering](#site-reliability-engineering)
-  - [Operating System(s)](#operating-systems)
+  - [Operating System](#operating-system)
   - [Physical Networking](#physical-networking)
 
-## Programming Language(s)
+## Programming Language
 
 | Language                      | Skill Level        |
 | ---------------------------- | ----------- |
@@ -23,14 +24,14 @@ This is the `A. Ruiz` _(aka. maestre3d)_ full **technology stack** _ordered by s
 | **Java** | Intermediate        |
 | **Python** | Basic        |
 
-## Front End Framework(s) & Library(es)
+## Front End Framework & Library(
 
 | Framework/Library                      | Skill Level        |
 | ---------------------------- | ----------- |
 | **React**              | Intermediate        |
 | **Angular** | Intermediate       |
 
-## Database(s)
+## Database
 
 | Database                      | Skill Level        |
 | ---------------------------- | ----------- |
@@ -41,6 +42,12 @@ This is the `A. Ruiz` _(aka. maestre3d)_ full **technology stack** _ordered by s
 | **Redis** | Basic       |
 | **AWS QLDB _(Blockchain)_** | Basic       |
 | **AWS S3 Data Lake _(Apache Parquet)_** | Basic       |
+
+## Static Storage
+
+| Storage                      | Skill Level        |
+| ---------------------------- | ----------- |
+| **AWS S3**              | Intermediate        |
 
 ## Streams
 
@@ -73,7 +80,7 @@ This is the `A. Ruiz` _(aka. maestre3d)_ full **technology stack** _ordered by s
 | **AWS ECR** | Basic       |
 | **AWS ECS** | Basic       |
 
-## Operating System(s)
+## Operating System
 
 | Operating System                      | Skill Level        |
 | ---------------------------- | ----------- |
