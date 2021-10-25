@@ -6,11 +6,20 @@
   A. Ruiz
   <br>
   <i>Software Engineer</i>
+  <br>
+  <i>Site-Reliability Enginner</i>
 </h1>
 
-A. Ruiz is a **_software engineer_** building cloud-native distributed systems using programming languages such as Go, Javascript and C#. 
+`A. Ruiz` is a ***software engineer*** building cloud-native distributed systems using programming languages such as _Go, Javascript and C#_.
 
-Actively working on  [**Wizeline**](https://github.com/wizeline) and [**Neutrino Corporation**](https://github.com/neutrinocorp).
+Moreover, he triggers real-time processes or communicates services **(event-driven/reactive systems)** using streaming technologies such as _Apache Kafka and AWS SNS+SQS_.
+
+If required, `A. Ruiz` is able to design and configure small/medium-scale organization networks ***(Cisco CCNA Level 2 certified)***.
+
+Finally, he provisions and deploys services ***(site-reliability engineering)*** using _GitHub/GitLab actions, AWS ECS, Kubernetes, Terraform and Ansible_.
+
+
+Actively working on  [**Wizeline**](https://github.com/wizeline) and [**Neutrino Corporation**](https://github.com/neutrinocorp) _(founder)_.
 
 <h2 align="center">Technology Stack</h2>
 <p align="center">
