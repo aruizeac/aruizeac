@@ -4,7 +4,7 @@ This is the `A. Ruiz` _(aka. maestre3d)_ full **technology stack** _ordered by s
 
 - [In-Depth A. Ruiz's Technology Stack](#in-depth-a-ruizs-technology-stack)
   - [Programming Language](#programming-language)
-  - [Front End Framework & Library(](#front-end-framework--library)
+  - [Front End Framework & Library](#front-end-framework--library)
   - [Database](#database)
   - [Static Storage](#static-storage)
   - [Streams](#streams)
@@ -24,7 +24,7 @@ This is the `A. Ruiz` _(aka. maestre3d)_ full **technology stack** _ordered by s
 | **Java** | Intermediate        |
 | **Python** | Basic        |
 
-## Front End Framework & Library(
+## Front End Framework & Library
 
 | Framework/Library                      | Skill Level        |
 | ---------------------------- | ----------- |
