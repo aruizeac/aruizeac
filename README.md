@@ -10,7 +10,7 @@
   <i>Site-Reliability Enginner</i>
 </h1>
 
-`A. Ruiz` is a ***software engineer*** building cloud-native distributed systems using programming languages such as _Go, Javascript and C#_.
+`A. Ruiz` is a ***software engineer*** building cloud-native distributed systems using programming languages such as _Go, Java, Python, Javascript and C#_.
 
 Moreover, he triggers real-time processes or communicates services **(event-driven/reactive systems)** using streaming technologies such as _Apache Kafka and AWS SNS+SQS_.
 
