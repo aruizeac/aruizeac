@@ -68,7 +68,7 @@ This is the `A. Ruiz` _(aka. maestre3d)_ full **technology stack** _ordered by s
 | Computing Instance Service | Skill Level        |
 | ---------------------------- | ----------- |
 | **AWS Lambda _(w/ ECS)_**              | Intermediate        |
-| **AWS EC2 _(w/ ECS, ELB, ASGs & Fargate)_** | Intermediate       |
+| **AWS EC2 _(w/ ECS, ELB, ASGs & Fargate)_** | Basic       |
 
 ## Site-Reliability Engineering
 
