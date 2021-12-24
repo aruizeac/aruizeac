@@ -51,5 +51,5 @@ Actively working on  [**Wizeline**](https://github.com/wizeline) and [**Neutrino
 
 <p>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maestre3d&show_icons=true&theme=tokyonight&count_private=true" />
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maestre3d&hide=css,html&theme=tokyonight&count_private=true" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maestre3d&hide=css,html&theme=tokyonight&count_private=true&layout=compact" />
 </p>
