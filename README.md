@@ -16,7 +16,7 @@ Moreover, he triggers real-time processes or communicates services **(event-driv
 
 If required, `A. Ruiz` is able to design and configure small/medium-scale organization networks ***(Cisco CCNA Level 2 certified)***.
 
-Finally, he provisions and deploys services ***(site-reliability engineering)*** using _GitHub/GitLab actions, AWS ECS, Kubernetes, Terraform and Ansible_.
+Finally, he provisions and deploys services ***(site-reliability engineering)*** using Docker, GitHub/GitLab actions, AWS ECS, Kubernetes and Terraform.
 
 
 Actively working on  [**Wizeline**](https://github.com/wizeline) and [**Neutrino Corporation**](https://github.com/neutrinocorp) _(founder)_.
