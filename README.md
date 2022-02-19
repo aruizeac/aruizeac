@@ -50,6 +50,6 @@ Actively working on  [**Wizeline**](https://github.com/wizeline) and [**Neutrino
 - Neutrino Corporation Twitter: [@NeutrinoCorp](https://twitter.com/NeutrinoCorp)
 
 <p>
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maestre3d&hide=css,html&theme=tokyonight&count_private=true&layout=compact" />
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=maestre3d&show_icons=true&theme=tokyonight&count_private=true" />
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maestre3d&hide=css,html&theme=default&count_private=true&layout=default&exclude_repo=debezium-examples,node-example,emoji-cheat-sheet,container,vizceral,express-postgres-starter,micro-frontends,cognito-demo-ui,node-jsonwebtoken,javascript-algorithms,slate,microservices-examples,WOW,CRUDMVC" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=maestre3d&show_icons=true&theme=default&count_private=true&layout=compact&hide_rank=true" />
 </p>
