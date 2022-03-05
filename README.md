@@ -12,14 +12,14 @@
 
 `A. Ruiz` is a ***software engineer*** and **site-reliability engineer** with _2 years of professional experience_ building cloud-native and 12-factor compliant reliable distributed systems using programming languages such as _Go, Java, Python, Javascript, Rust, Elixir and C#_.
 
-In a general scenario, when distributed systems communication **(event-driven/reactive systems)** is required, `A. Ruiz` might use streaming technologies such as _Apache Kafka and Amazon Simple Notification Service with Amazon Simple Queue Service (topic-queue chaining pattern)_ for systems communication.
+In a general scenario, when distributed systems communication is required, `A. Ruiz` might use streaming technologies such as _Apache Kafka and Amazon Simple Notification Service with Amazon Simple Queue Service (topic-queue chaining pattern)_ for asynchronous systems communication (**event-driven)**. Moreover, for synchronous communication is desired, he might use gRPC.
 
 Furthermore, if an on-premise small/medium-scale organization network is required, `A. Ruiz` is able to design and provision such network using Cisco technology ***(Cisco CCNA Level 2 certified)***. Additionally, `A. Ruiz` is able to design and provision network cloud infrastructure too.
 
 Finally, when cloud infrastructure is required, `A. Ruiz` might use Docker, GitHub/GitLab actions, Amazon ECS with Fargate, Amazon Lambda, Kubernetes and/or Terraform.
 
 
-Actively working on  [**Wizeline**](https://github.com/wizeline) _(Full-time / Golang Sofware Engineer)_ and [**Neutrino Corporation**](https://github.com/neutrinocorp) _(Founder / Part-time/ Entrepreneurship / Lead Engineer)_.
+Actively working on  [**Wizeline**](https://github.com/wizeline) _(Full-time / Golang Sofware Engineer)_ and [**Neutrino Corporation**](https://github.com/neutrinocorp) _(Founder / Part-time / Entrepreneurship / Lead Engineer)_.
 
 <h2 align="center">Technology Stack</h2>
 <p align="center">
