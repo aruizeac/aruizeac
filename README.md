@@ -12,7 +12,7 @@
 
 `A. Ruiz` is a ***software engineer*** and **site-reliability engineer** with _2 years of professional experience_ building cloud-native and 12-factor compliant reliable distributed systems using programming languages such as _Go, Java, Python, Javascript, Rust, Elixir and C#_.
 
-In a general scenario, when distributed systems communication is required, `A. Ruiz` might use streaming technologies such as _Apache Kafka and Amazon Simple Notification Service with Amazon Simple Queue Service (topic-queue chaining pattern)_ for asynchronous systems communication (**event-driven)**. Moreover, for synchronous communication is desired, he might use gRPC.
+In a general scenario, when distributed systems communication is required, `A. Ruiz` might use streaming technologies such as _Apache Kafka and Amazon Simple Notification Service with Amazon Simple Queue Service (topic-queue chaining pattern)_ for asynchronous systems communication (**event-driven)**. Moreover, for synchronous communication he might use _gRPC_ over plain HTTP.
 
 Furthermore, if an on-premise small/medium-scale organization network is required, `A. Ruiz` is able to design and provision such network using Cisco technology ***(Cisco CCNA Level 2 certified)***. Additionally, `A. Ruiz` is able to design and provision network cloud infrastructure too.
 
