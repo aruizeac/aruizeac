@@ -10,7 +10,7 @@
   <i>Site-Reliability Enginner</i>
 </h1>
 
-`A. Ruiz` is a ***software engineer*** and **site-reliability engineer** with _2 years of professional experience_ building cloud-native and 12-factor compliant reliable distributed systems using programming languages such as _Go, Java, Python, Javascript, Rust, Elixir and C#_.
+`A. Ruiz` is a ***software engineer*** and **site-reliability engineer** with _2 years of professional experience_ building cloud-native and 12-factor compliant reliable distributed systems using programming languages such as _Go, Java, Python, Javascript and C#_.
 
 In a general scenario, when distributed systems communication is required, `A. Ruiz` might use streaming technologies such as _Apache Kafka and Amazon Simple Notification Service with Amazon Simple Queue Service (topic-queue chaining pattern)_ for asynchronous systems communication (**event-driven)**. Moreover, for synchronous communication he might use _gRPC_ over plain HTTP.
 
