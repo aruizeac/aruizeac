@@ -19,7 +19,7 @@ Furthermore, if an on-premise small/medium-scale organization network is require
 Finally, when cloud infrastructure is required, `A. Ruiz` might use Docker, GitHub/GitLab actions, Amazon ECS with Fargate, Amazon Lambda, Kubernetes and/or Terraform.
 
 
-Actively working on  [**Wizeline**](https://github.com/wizeline) _(Full-time / Golang Sofware Engineer)_ and [**Neutrino Corporation**](https://github.com/neutrinocorp) _(Founder / Part-time / Entrepreneurship / Lead Engineer)_.
+Actively working at  [**Wizeline**](https://github.com/wizeline) _(Full-time / Golang Sofware Engineer)_ and [**Neutrino Corporation**](https://github.com/neutrinocorp) _(Founder / Part-time / Entrepreneurship / Lead Engineer)_.
 
 <h2 align="center">Technology Stack</h2>
 <p align="center">
