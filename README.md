@@ -10,16 +10,9 @@
   <i>Site-Reliability Enginner</i>
 </h1>
 
-`A. Ruiz` is a ***software engineer*** and **site-reliability engineer** with over _3 years of professional experience_ building cloud-native and 12-factor compliant reliable distributed systems using programming languages such as _Go, Java, Python, Javascript and C#_.
+`A. Ruiz` is a ***software engineer*** and **site-reliability engineer** with over _3 years of professional experience_ building cloud-native systems using programming languages such as _Go, Java, Javascript and C#_.
 
-In a general scenario, when distributed systems communication is required, `A. Ruiz` might use streaming technologies such as _Apache Kafka and Amazon Simple Notification Service with Amazon Simple Queue Service (topic-queue chaining pattern)_ for asynchronous systems communication (**event-driven)**. Moreover, for synchronous communication he might use _gRPC_ over plain HTTP.
-
-Furthermore, if an on-premise small/medium-scale organization network is required, `A. Ruiz` is able to design and provision such network using Cisco technology ***(Cisco CCNA Level 2 certified)***. Additionally, `A. Ruiz` is able to design and provision network cloud infrastructure too.
-
-Finally, when cloud infrastructure is required, `A. Ruiz` might use Docker, GitHub/GitLab actions, Amazon ECS with Fargate, Amazon Lambda, Kubernetes and/or Terraform.
-
-
-Actively working at  [**Wizeline**](https://github.com/wizeline) _(Full-time / Golang Sofware Engineer)_ and [**Neutrino Corporation**](https://github.com/neutrinocorp) _(Founder / Part-time / Entrepreneurship / Lead Engineer)_.
+Actively working at  [**Wizeline**](https://github.com/wizeline) _(Full-time / Golang Sofware Engineer)_ and [**Neutrino Corporation**](https://github.com/neutrinocorp) _(Founder / Part-time / Lead Engineer)_.
 
 <h2 align="center">Technology Stack</h2>
 <p align="center">
@@ -34,7 +27,7 @@ Actively working at  [**Wizeline**](https://github.com/wizeline) _(Full-time / G
   <img src="https://s3.amazonaws.com/usefulangle/posts/332-5f3581d5ea79e.png" alt="dynamodb" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/640px-Cassandra_logo.svg.png" alt="cassandra" width="50" height="40"/> 
-  <img src="https://elephy.tech/assets/images/services-ico/kafka.svg" alt="kafka" width="40" height="40"/> 
+  <img src="https://uploads-ssl.webflow.com/62038ffc9cd2db4558e3c7b7/623b44a1913c46041e39c836_kafka.svg" alt="kafka" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="k8s" width="40" height="40"/> 
   <img src="https://i.pinimg.com/originals/28/ec/74/28ec7440a57536eebad2931517aa1cce.png" alt="terraform" width="40" height="40"/> 
