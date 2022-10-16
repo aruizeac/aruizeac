@@ -88,6 +88,7 @@ This is the `A. Ruiz` _(aka. maestre3d)_ full **technology stack** _ordered by s
 | **Windows** | Intermediate       |
 | **OSX** | Intermediate       |
 | **Fedora** | Intermediate       |
+| **CentOS** | Basic       |
 
 ## Physical Networking
 
