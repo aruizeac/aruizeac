@@ -12,7 +12,7 @@
 
 `A. Ruiz` is a ***software engineer*** and **site-reliability engineer** with over _4 years of professional experience_ building cloud-native systems using programming languages such as _Go, Java, Javascript and C#_.
 
-Actively working at  [**Wizeline**](https://github.com/wizeline) _(Full-time / Golang Sofware Engineer)_ and [**Neutrino Corporation**](https://github.com/neutrinocorp) _(Founder / Part-time / Lead Engineer)_.
+Actively working at [**Aplazo**](https://github.com/aplazo) _(Full-time / Staff Sofware Engineer)_ and [**Neutrino Corporation**](https://github.com/neutrinocorp) _(Founder / Part-time / Lead Engineer)_.
 
 <h2 align="center">Technology Stack</h2>
 <p align="center">
