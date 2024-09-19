@@ -2,7 +2,7 @@
 
 Staff Backend Engineer @ [aplazo](https://github.com/aplazo).
 
-Creating my own stuff @ [neutrino](https://github.com/neutrinocorp) (_startup_).
+Creating my own stuff @ [hadron](https://github.com/hadroncorp) and @ [neutrino](https://github.com/neutrinocorp) (_startup_).
 
 Data and Site Realiability Engineer _wannabe_.
 
