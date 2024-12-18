@@ -15,7 +15,7 @@ Data and Site Realiability Engineer _wannabe_.
 ## Skills
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=go,java,cpp,rust,js,cs,python)
+![Languages](https://skillicons.dev/icons?i=go,java,cpp,js,cs,python)
 
 #### Infrastructure Technologies
 [![Infrastructure Technologies](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,jenkins&perline=4)](https://skillicons.dev)
