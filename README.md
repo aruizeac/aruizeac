@@ -7,7 +7,7 @@ Creating my own stuff @ [hadron](https://github.com/hadroncorp) and @ [neutrino]
 Data and Site Realiability Engineer _wannabe_.
 
 ## GitHub Stats
-![Alonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=maestre3d&show_icons=true&theme=cobalt)
+![Alonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=aruizeac&show_icons=true&theme=cobalt)
 
 ## Connect with me
 - [LinkedIn](www.linkedin.com/in/aruizeac)
