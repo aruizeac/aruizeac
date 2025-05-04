@@ -2,9 +2,7 @@
 
 Senior Software Engineer @ [sailpoint](https://github.com/sailpoint).
 
-Creating my own stuff @ [hadron](https://github.com/hadroncorp) and @ [neutrino](https://github.com/neutrinocorp) (_startup_).
-
-Data and Site Realiability Engineer _wannabe_.
+Creating my own stuff @ [hadron](https://github.com/tesserical) (_startup_).
 
 ## GitHub Stats
 ![Alonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=aruizeac&show_icons=true&theme=cobalt)
