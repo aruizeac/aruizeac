@@ -1,8 +1,8 @@
 # A. Ruiz
 
-Senior Software Engineer @ [sailpoint](https://github.com/sailpoint).
+Software Engineer @ [sailpoint](https://github.com/sailpoint).
 
-Creating my own stuff @ [bosonical](https://github.com/bosonicalio) (_startup_).
+Creating my own stuff @ [bosonical](https://github.com/bosonicalcom) (_startup_).
 
 ## GitHub Stats
 ![Alonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=aruizeac&show_icons=true&theme=cobalt)
